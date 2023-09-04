@@ -20,12 +20,12 @@ public class PhysicsSolverTest {
         assertFalse(s.hasValue());
     }
 
-    /*
-    @Test(expected = RuntimeException.class)
+
+    @Test
     @Grade(value = 1, cpuTimeout = 1000)
     public void testNoSlotValue() {
         PhysicsSolver.Slot s = new PhysicsSolver.Slot();
-        s.getValue();
+        assertThrows(RuntimeException.class, () -> s.getValue());
     }
 
 }
