@@ -11,7 +11,7 @@ import java.util.Iterator;
 public class RecursiveStack<E>  implements Iterable<E> {
 
     final E e;
-    final RecursiveStack next;
+    final RecursiveStack<E> next;
 
     /**
      * Creates an empty stack
@@ -27,7 +27,7 @@ public class RecursiveStack<E>  implements Iterable<E> {
      * @param e the element to put on top
      * @param next the following stack
      */
-    private RecursiveStack(E e, RecursiveStack next) {
+    private RecursiveStack(E e, RecursiveStack<E> next) {
         // TODO
     }
 

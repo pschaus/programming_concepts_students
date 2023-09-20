@@ -132,22 +132,8 @@ public class KNN {
      *         among the k most similar students is > k/2, false otherwise
      */
     public static boolean predictSuccess(Student [] students, double[] grades, int k) {
-        int n = students.length;
-
-        Arrays.sort(students, new Comparator<Student>() {
-            @Override
-            public int compare(Student s1, Student s2) {
-                return (int) Math.signum(euclideanDistance(s1.grades,grades) - euclideanDistance(s2.grades, grades));
-            }
-        });
-
-        int numberOfSuccess = 0;
-        for (int i = 0; i < k; i++) {
-            if (students[i].success) {
-                numberOfSuccess++;
-            }
-        }
-        return numberOfSuccess > k/2;
+        // TODO
+         return false;
     }
 
     public static double euclideanDistance(double[] a, double[] b) {
