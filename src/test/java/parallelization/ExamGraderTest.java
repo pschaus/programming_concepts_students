@@ -1,12 +1,13 @@
 package parallelization;
 
+import org.javagrader.Allow;
 import org.javagrader.Grade;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.util.Random;
 
-
+@Grade
 public class ExamGraderTest {
     ExamGrader.ExamQuestion q1 = new ExamGrader.ExamQuestion(5.5, null);
     ExamGrader.ExamQuestion q2 = new ExamGrader.ExamQuestion(4.7, q1);
@@ -73,6 +74,7 @@ public class ExamGraderTest {
 
     @Test
     @Grade(value=1, cpuTimeout=1000)
+    @Allow("all")
     public void testDelayedExams() {
         // The first exam has questions q1 and q2.
         // The second exam has questions q1, q2, and q3.
@@ -87,8 +89,8 @@ public class ExamGraderTest {
             return (int)Math.ceil(sum);
         } );
         assertEquals(2, resultsRoundedUp.length);
-        assertEquals( resultsRoundedUp[0], 11);
-        assertEquals( resultsRoundedUp[1], 15);
+        assertEquals(11, resultsRoundedUp[0]);
+        assertEquals(15, resultsRoundedUp[1]);
     }
 
     @Test

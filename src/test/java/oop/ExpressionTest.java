@@ -7,8 +7,7 @@ import org.javagrader.Grade;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-
-
+@Grade
 public class ExpressionTest {
 
     @Test

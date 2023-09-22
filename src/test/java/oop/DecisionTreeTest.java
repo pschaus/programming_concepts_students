@@ -4,11 +4,8 @@ import org.javagrader.Grade;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-import java.util.HashSet;
-import java.util.Random;
-import java.util.Set;
 
-
+@Grade
 public class DecisionTreeTest {
 
 

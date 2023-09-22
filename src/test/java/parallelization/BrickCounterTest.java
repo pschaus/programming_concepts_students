@@ -1,5 +1,6 @@
 package parallelization;
 
+import org.javagrader.Allow;
 import org.javagrader.Grade;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
@@ -8,7 +9,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.function.Function;
 
-
+@Grade
 public class BrickCounterTest {
     private static class MyBrick implements BrickCounter.Brick {
         private final String color;

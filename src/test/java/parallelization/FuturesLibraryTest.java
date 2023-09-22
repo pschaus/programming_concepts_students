@@ -1,5 +1,6 @@
 package parallelization;// This file must *not* be modified!
 
+import org.javagrader.Allow;
 import org.javagrader.Grade;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
@@ -8,7 +9,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.function.Predicate;
 
-
+@Grade
 public class FuturesLibraryTest {
     private static class MyBook implements FuturesLibrary.Book {
         private String author;

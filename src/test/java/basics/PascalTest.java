@@ -11,6 +11,7 @@ import java.util.Random;
 
 
 
+@Grade
 public class PascalTest {
     
     
