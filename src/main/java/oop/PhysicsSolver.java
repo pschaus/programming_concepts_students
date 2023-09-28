@@ -28,8 +28,8 @@ public class PhysicsSolver {
          * @param b The second number.
          * @return <code>true</code> iff. the numbers are equal.
          **/
-        static public final boolean areSameDoubles(double a,
-                                                   double b) {
+        static public boolean areSameDoubles(double a,
+                                             double b) {
             final double THRESHOLD = 0.0001; 
             return Math.abs(a - b) < THRESHOLD;
         }
@@ -168,6 +168,15 @@ public class PhysicsSolver {
             factor2_ = slot;
         }
 
+        @Override
+        public boolean update() {
+            return false;
+        }
+
+        @Override
+        public void clearValues() {
+
+        }
     }
 
   
@@ -221,6 +230,15 @@ public class PhysicsSolver {
             number_ = slot;
         }
 
+        @Override
+        public boolean update() {
+            return false;
+        }
+
+        @Override
+        public void clearValues() {
+
+        }
     }
 
 

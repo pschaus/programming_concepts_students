@@ -10,11 +10,9 @@ import java.util.Iterator;
  */
 public class RecursiveStack<E>  implements Iterable<E> {
 
-    final E e;
-    final RecursiveStack<E> next;
 
     /**
-     * Creates an empty stack
+     * Creates an empty stack with the final E e and the final RecursiveStack<E> next
      */
     public RecursiveStack() {
         // TODO
@@ -41,6 +39,7 @@ public class RecursiveStack<E>  implements Iterable<E> {
      */
     public RecursiveStack<E> add(E e) {
         // TODO
+        return new RecursiveStack<>();
     }
 
     /**

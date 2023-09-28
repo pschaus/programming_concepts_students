@@ -9,7 +9,6 @@ import java.util.Optional;
  *                             ^         |
  *                             |         |
  *                             -----------
- * 
  * We ask you to implement two methods; enqueue and remove which, respectively, add an element at the end of the queue, and
  * removes an element at a given index. The time complexity of each method is note in their specifications.
  */
@@ -60,6 +59,6 @@ public class CircularLinkedList {
     }
     
     public int remove(int index) {
-         return -1
+         return -1;
     }
 }
