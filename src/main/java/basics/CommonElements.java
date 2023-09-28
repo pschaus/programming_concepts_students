@@ -1,6 +1,6 @@
 package basics;
 
-@SuppressWarnings("unused")
+
 public class CommonElements {
     /**
      *
