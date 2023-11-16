@@ -168,6 +168,14 @@ public class PhysicsSolver {
             factor2_ = slot;
         }
 
+        @Override
+        public boolean update() {
+			 return false;
+        }
+
+        @Override
+        public void clearValues() {
+        }
     }
 
   
@@ -221,6 +229,14 @@ public class PhysicsSolver {
             number_ = slot;
         }
 
+        @Override
+        public boolean update() {
+			 return false;
+        }
+
+        @Override
+        public void clearValues() {
+        }
     }
 
 

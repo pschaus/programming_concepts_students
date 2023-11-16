@@ -60,6 +60,6 @@ public class CircularLinkedList {
     }
     
     public int remove(int index) {
-         return -1
+         return -1;
     }
 }
