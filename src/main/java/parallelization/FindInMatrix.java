@@ -12,8 +12,22 @@ public class FindInMatrix {
     // of the existing methods and class members.
 
     public static class Result {
-        int row;
-        List<Integer> columns;
+        private int row;
+        private List<Integer> columns;
+
+        Result(int row,
+               List<Integer> columns) {
+            this.row = row;
+            this.columns = columns;
+        }
+
+        public int getRow() {
+            return row;
+        }
+
+        public List<Integer> getColumns() {
+            return columns;
+        }
     }
 
     /**

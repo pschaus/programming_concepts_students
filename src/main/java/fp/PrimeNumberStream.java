@@ -6,10 +6,10 @@ import java.util.stream.IntStream;
 /**
  *
  */
-public class PrimeNumber {
+public class PrimeNumberStream {
 
     /**
-     * Check that number is prime (can be divided by 1 and himself)
+     * Check that number is prime (can be divided by 1 and itself)
      *
      * @param number a non negative number
      * @return true if number is prime, false otherwise
