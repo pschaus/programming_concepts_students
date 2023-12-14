@@ -1,11 +1,11 @@
 package fp;
 
-import java.util.function.IntUnaryOperator;
-import java.util.stream.IntStream;
+import java.util.function.UnaryOperator;
+import java.util.stream.Stream;
 
 /**
  * Exercise about creating infinite streams. The goal is to model the
- * stream of prime numbers, as well as the stream of gap size between
+ * stream of prime numbers, as well as the stream of gap sizes between
  * successive prime numbers.
  */
 public class PrimeNumberStream {
@@ -24,35 +24,45 @@ public class PrimeNumberStream {
          return true;
     }
 
+
     /**
-     * Generates an infinite stream of consecutive integers starting from a given value
-     * @param from the start of the stream
-     * @return an infinite stream from, from+1, from+2, ...
+     * Generate the infinite stream of consecutive integers starting from a given value.
+     * @param from The starting value (inclusive).
+     * @return The infinite stream of integers: "from", "from + 1", "from + 2",...
      */
-    public static IntStream streamFrom(int from) {
+    public static Stream<Integer> streamFrom(int from) {
         // TODO:
-        // Hint: Consider using java.util.stream.IntStream.iterate method
+        // Hint: Consider using Stream.iterate() method
          return null;
     }
 
-    public static IntStream primeStreamFrom(int from) {
+
+    /**
+     * Generate the infinite stream of prime numbers that are greater or equal to a given value.
+     * @param from The starting value (inclusive).
+     * @return The infinite stream of prime numbers.
+     */
+    public static Stream<Integer> primeStreamFrom(int from) {
         // TODO
         // Hint: use filter
          return null;
     }
 
     /**
-     * Generate an infinite stream of prime gaps (difference between two successive prime numbers)
-     * computed on the stream of prime numbers
-     * starting at the first prime number larger or equal to from.
-     * Example: from = 5 (5, 7, 11, 13, 17, 19, ...) , the stream of prime gaps is thus 2, 4, 2, 4, 2, ...
+     * Generate the infinite stream of prime gaps (difference between
+     * two successive prime numbers), starting at the first prime
+     * number that is greater or equal to a given value.
      *
-     * @param from
-     * @return an infinite stream of prime gaps
+     * Example: If "from" = 5, the stream of prime numbers is (5, 7,
+     * 11, 13, 17, 19,...), consequently the stream of prime gaps is
+     * (7-5, 11-7, 13-11, 17-13, 19-17,...), which is equal to (2, 4,
+     * 2, 4, 2,...).
+     *
+     * @param from The starting value (inclusive).
+     * @return The infinite stream of prime gaps.
      */
-    public static IntStream primeGapStreamFrom(int from) {
+    public static Stream<Integer> primeGapStreamFrom(int from) {
         // TODO
          return null;
     }
-
 }
