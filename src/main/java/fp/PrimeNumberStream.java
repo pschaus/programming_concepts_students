@@ -4,15 +4,20 @@ import java.util.function.IntUnaryOperator;
 import java.util.stream.IntStream;
 
 /**
- *
+ * Exercise about creating infinite streams. The goal is to model the
+ * stream of prime numbers, as well as the stream of gap size between
+ * successive prime numbers.
  */
 public class PrimeNumberStream {
 
     /**
-     * Check that number is prime (can be divided by 1 and itself)
+     * Check whether the given number is prime. A prime is an integer
+     * that is not a product of two smaller natural numbers. By
+     * convention, negative numbers, zero, and 1 are not considered as
+     * prime numbers.
      *
-     * @param number a non negative number
-     * @return true if number is prime, false otherwise
+     * @param number The number to be tested.
+     * @return true if the number is prime, false otherwise.
      */
     public static boolean isPrime(int number) {
         // TODO
