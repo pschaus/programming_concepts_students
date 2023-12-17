@@ -53,9 +53,11 @@ parallelization/DiskCatalogTest.class
 basics/KNNTest.class
 fp/EmployeeFinderTest.class
 basics/PascalTest.class
+fp/StudentStreamTest.class
 parallelization/ExamGraderTest$6.class
 basics/ASCIIDecoderTest.class
 parallelization/FindInMatrixTest.class
+fp/StudentStreamTest$1.class
 oop/DecisionTreeTest.class
 oop/RobotActionFactoryTest.class
 oop/GlobalWarmingTest.class

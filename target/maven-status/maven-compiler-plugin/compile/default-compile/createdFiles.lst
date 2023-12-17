@@ -3,6 +3,7 @@ parallelization/ExamGrader$ExamQuestion.class
 basics/Pascal.class
 complexity/MaximumSumSubarray$ArrayIndex.class
 basics/KNN$Student.class
+fp/StudentStream.class
 parallelization/DiskCatalog$Disk.class
 fp/PrimeNumberStream.class
 oop/RobotActionFactory$TurnRightAction.class
@@ -46,6 +47,7 @@ complexity/KnapsackBruteForce.class
 fp/ObservableCounter.class
 oop/CleanLinkedList$Node.class
 basics/QRcode.class
+fp/StudentStream$Grade.class
 basics/CommonElements.class
 basics/PatternMatching.class
 parallelization/CountPrimeNumbers$CountPrimesRunnable.class
@@ -68,6 +70,7 @@ oop/BinarySearchTree$Node.class
 oop/StringIterator$IterableString.class
 oop/GlobalWarming$RecordObserver.class
 parallelization/FindInMatrix$Result.class
+fp/StudentStream$Student.class
 oop/MedianOfPairs$Pair.class
 parallelization/ExamGrader.class
 basics/Pentago$RotationDirection.class
