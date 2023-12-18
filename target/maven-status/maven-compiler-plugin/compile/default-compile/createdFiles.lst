@@ -29,6 +29,7 @@ oop/PhysicsSolver$Multiplication.class
 oop/CircularLinkedList$Node.class
 fp/EmployeeFinder$Company.class
 oop/RobotActionFactory$1.class
+fp/VariousStreams$MinMaxValue.class
 fp/LambdaExpressions.class
 oop/GlobalWarming.class
 oop/RobotActionFactory.class
@@ -72,6 +73,7 @@ oop/PhysicsSolver$Slot.class
 oop/BinarySearchTree$Node.class
 oop/StringIterator$IterableString.class
 oop/GlobalWarming$RecordObserver.class
+fp/VariousStreams.class
 parallelization/FindInMatrix$Result.class
 fp/StudentStream$Student.class
 oop/MedianOfPairs$Pair.class
