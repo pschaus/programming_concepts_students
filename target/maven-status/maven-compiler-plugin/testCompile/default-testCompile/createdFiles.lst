@@ -25,6 +25,7 @@ oop/DotProductIteratorTest.class
 complexity/MaximumSumSubarrayTest.class
 oop/StringIteratorTest.class
 basics/CommonElementsTest.class
+fp/StudentStreamTest$TestConditions.class
 fp/FuturesLibraryTest$MyLibrary.class
 parallelization/FindInMatrixTest$1.class
 oop/MedianOfPairsTest.class

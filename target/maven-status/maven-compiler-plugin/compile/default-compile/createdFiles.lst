@@ -16,6 +16,7 @@ fp/EmployeeFinder$Employee.class
 oop/RecursiveStack.class
 oop/RobotActionFactory$RepeatAction.class
 basics/Matrix.class
+fp/StudentStream$StudentConditions.class
 complexity/Fibonacci.class
 oop/DotProductIterator.class
 parallelization/CountPrimeNumbers$SharedCounter.class
@@ -43,6 +44,7 @@ basics/KNN.class
 oop/DecisionTree.class
 fp/FuturesLibrary$Library.class
 oop/RobotActionFactory$SequenceOfActions.class
+fp/StudentStream$StudentAverage.class
 complexity/KnapsackBruteForce.class
 fp/ObservableCounter.class
 oop/CleanLinkedList$Node.class
@@ -54,6 +56,7 @@ parallelization/CountPrimeNumbers$CountPrimesRunnable.class
 oop/DotProductIterator$VectorIterator.class
 complexity/Anagram.class
 oop/Expression.class
+fp/StudentStream$CourseCondition.class
 oop/BinarySearchTree.class
 complexity/MaximumSumSubarray.class
 oop/GlobalWarming$IPCCDatabase.class
