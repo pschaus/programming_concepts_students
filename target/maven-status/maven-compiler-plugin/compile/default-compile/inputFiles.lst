@@ -1,12 +1,13 @@
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/algorithms/DotProductIterator.java
-/__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/algorithms/DecisionTree.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/algorithms/Expression.java
+/__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/algorithms/DecisionTree.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/parallelization/ExamGrader.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/basics/PatternMatching.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/fp/PrimeNumberStream.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/fp/LambdaExpressions.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/fp/VariousStreams.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/oop/PhysicsSolver.java
+/__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/basics/JavelinThrow.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/basics/QRcode.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/algorithms/StringIterator.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/algorithms/Fibonacci.java
@@ -21,8 +22,8 @@
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/basics/IntroductionExercises.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/algorithms/Anagram.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/algorithms/CircularLinkedList.java
-/__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/parallelization/DiskCatalog.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/oop/Dungeon.java
+/__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/parallelization/DiskCatalog.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/fp/BrickCounter.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/basics/MagicSquare.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/basics/Matrix.java
@@ -30,6 +31,7 @@
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/oop/RobotActionFactory.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/oop/KNN.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/algorithms/RecursiveStack.java
+/__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/parallelization/StadiumStatistics.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/parallelization/TrainStations.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/fp/EmployeeFinder.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/basics/Convolution.java
@@ -37,6 +39,7 @@
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/oop/GlobalWarming.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/oop/Pentago.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/basics/FourInARow.java
+/__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/algorithms/BestTimeTracker.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/parallelization/CountPrimeNumbers.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/algorithms/BinarySearchTree.java
 /__w/programming_concepts/programming_concepts/programming_concepts_students/src/main/java/basics/ASCIIDecoder.java
