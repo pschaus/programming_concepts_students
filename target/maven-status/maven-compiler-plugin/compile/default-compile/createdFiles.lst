@@ -2,8 +2,8 @@ parallelization/TrainStations$DistanceFunction.class
 oop/KNN.class
 fp/StudentStream.class
 algorithms/MedianOfPairs.class
-fp/FuturesLibrary.class
 oop/PhysicsSolver$Squaring.class
+fp/FuturesLibrary.class
 basics/StringUtils.class
 oop/RobotActionFactory$RepeatAction.class
 algorithms/StringIterator.class
@@ -25,6 +25,7 @@ oop/RobotActionFactory$SequenceOfActions.class
 fp/ObservableCounter.class
 algorithms/CleanLinkedList$Node.class
 basics/QRcode.class
+algorithms/TreeHashtable.class
 fp/StudentStream$Grade.class
 basics/PatternMatching.class
 oop/GlobalWarming$IPCCDatabase.class
@@ -43,8 +44,8 @@ fp/StudentStream$Student.class
 parallelization/FindInMatrix$Result.class
 algorithms/SwapList.class
 oop/Pentago$RotationDirection.class
-oop/PhysicsSolver.class
 oop/RobotActionFactory$TurnLeftAction.class
+oop/PhysicsSolver.class
 fp/BrickCounter$Brick.class
 parallelization/ExamGrader$ExamQuestion.class
 basics/Pascal.class
@@ -54,6 +55,7 @@ oop/Dungeon$Player.class
 parallelization/DiskCatalog$Disk.class
 fp/PrimeNumberStream.class
 oop/RobotActionFactory$TurnRightAction.class
+algorithms/TreeHashtable$Entry.class
 fp/EmployeeFinder.class
 algorithms/CircularLinkedList.class
 fp/EmployeeFinder$Employee.class
@@ -75,8 +77,8 @@ algorithms/CircularLinkedList$Node.class
 fp/FuturesLibrary$Book.class
 algorithms/MedianOfPairs$Pair.class
 algorithms/MaximumSumSubarray.class
-fp/StudentStream$StudentAverage.class
 oop/Pentago$BoardSubpart.class
+fp/StudentStream$StudentAverage.class
 basics/JavelinThrow$JavelinPosition.class
 parallelization/TrainStations.class
 oop/Dungeon.class
@@ -84,8 +86,8 @@ algorithms/MaximumSumSubarray$ArrayIndex.class
 oop/Pentago$Player.class
 basics/CommonElements.class
 parallelization/CountPrimeNumbers$CountPrimesRunnable.class
-algorithms/BestTimeTracker.class
 algorithms/StringIterator$IterableString.class
+algorithms/BestTimeTracker.class
 fp/StudentStream$CourseCondition.class
 algorithms/DotProductIterator$VectorIterator.class
 parallelization/StadiumStatistics$AgeCategory.class
@@ -94,8 +96,8 @@ algorithms/DecisionTree.class
 oop/RobotActionFactory$MoveForwardAction.class
 oop/PhysicsSolver$Slot.class
 algorithms/CleanLinkedList.class
-fp/VariousStreams.class
 oop/GlobalWarming$RecordObserver.class
+fp/VariousStreams.class
 parallelization/ExamGrader.class
 oop/RobotActionFactory$Robot.class
 oop/KNN$Student.class

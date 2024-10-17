@@ -2,12 +2,12 @@ algorithms/FibonacciTest.class
 parallelization/ExamGraderTest$9.class
 algorithms/DotProductIteratorTest.class
 fp/VariousStreamsTest.class
-parallelization/StadiumStatisticsTest$MySupporter.class
 basics/MagicSquareTest.class
+parallelization/StadiumStatisticsTest$MySupporter.class
 parallelization/ExamGraderTest$2.class
 algorithms/LinkedList.class
-fp/BrickCounterTest$MyBrick.class
 fp/FuturesLibraryTest.class
+fp/BrickCounterTest$MyBrick.class
 algorithms/StringIteratorTest.class
 algorithms/DecisionTreeTest.class
 oop/GlobalWarmingTest$Observer.class
@@ -47,10 +47,10 @@ algorithms/KnapsackBruteForceTest.class
 parallelization/ExamGraderTest.class
 algorithms/BagTest.class
 parallelization/TrainStationsTest.class
-parallelization/TrainStationsTest$HaversineDistance.class
 basics/StringUtilsTest.class
-fp/ObservableCounterTest.class
+parallelization/TrainStationsTest$HaversineDistance.class
 fp/BrickCounterTest.class
+fp/ObservableCounterTest.class
 basics/ConvolutionTest.class
 basics/MatrixTest.class
 algorithms/MaximumSumSubarrayTest.class
@@ -63,6 +63,7 @@ algorithms/SwapListTest.class
 fp/LambdaExpressionsTest.class
 parallelization/DiskCatalogTest.class
 fp/EmployeeFinderTest.class
+algorithms/TreeHashtableTest.class
 fp/StudentStreamTest.class
 basics/PascalTest.class
 algorithms/ExpressionTest.class
