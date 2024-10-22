@@ -2,6 +2,7 @@ algorithms/FibonacciTest.class
 parallelization/ExamGraderTest$9.class
 algorithms/DotProductIteratorTest.class
 fp/VariousStreamsTest.class
+algorithms/FunctionRootTest.class
 basics/MagicSquareTest.class
 parallelization/StadiumStatisticsTest$MySupporter.class
 parallelization/ExamGraderTest$2.class
@@ -20,6 +21,7 @@ oop/PhysicsSolverTest.class
 algorithms/LinkedList$Node.class
 parallelization/ExamGraderTest$5.class
 oop/RobotActionFactoryTest$1.class
+algorithms/FunctionRootTest$1.class
 parallelization/DiskCatalogTest$MyDisk.class
 basics/QRcodeTest.class
 algorithms/CircularLinkedListTest.class
@@ -69,6 +71,7 @@ basics/PascalTest.class
 algorithms/ExpressionTest.class
 parallelization/ExamGraderTest$6.class
 basics/ASCIIDecoderTest.class
+algorithms/FunctionRootTest$Function1.class
 parallelization/FindInMatrixTest.class
 parallelization/StadiumStatisticsTest.class
 fp/StudentStreamTest$1.class
