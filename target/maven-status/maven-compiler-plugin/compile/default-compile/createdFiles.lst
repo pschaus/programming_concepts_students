@@ -1,6 +1,7 @@
 parallelization/TrainStations$DistanceFunction.class
 oop/KNN.class
 fp/StudentStream.class
+basics/Mazout$1.class
 algorithms/MedianOfPairs.class
 oop/PhysicsSolver$Squaring.class
 fp/FuturesLibrary.class
@@ -28,6 +29,7 @@ basics/QRcode.class
 algorithms/TreeHashtable.class
 fp/StudentStream$Grade.class
 basics/PatternMatching.class
+basics/Mazout.class
 oop/GlobalWarming$IPCCDatabase.class
 algorithms/Bag.class
 algorithms/BagImpl.class
@@ -48,6 +50,7 @@ algorithms/FunctionRoot$Function.class
 oop/RobotActionFactory$TurnLeftAction.class
 oop/PhysicsSolver.class
 fp/BrickCounter$Brick.class
+basics/Mazout$House.class
 parallelization/ExamGrader$ExamQuestion.class
 basics/Pascal.class
 parallelization/TrainStations$Station.class
@@ -64,6 +67,7 @@ fp/StudentStream$StudentConditions.class
 basics/Matrix.class
 algorithms/BinarySearchTree.class
 oop/Pentago$Winner.class
+basics/Mazout$City.class
 basics/IntroductionExercises.class
 basics/MagicSquare.class
 algorithms/DotProductIterator.class

@@ -25,6 +25,7 @@ algorithms/FunctionRootTest$1.class
 parallelization/DiskCatalogTest$MyDisk.class
 basics/QRcodeTest.class
 algorithms/CircularLinkedListTest.class
+basics/MazoutTest.class
 basics/IntroductionExercisesTest.class
 parallelization/TrainStationsTest$MyStation.class
 parallelization/ExamGraderTest$8.class
@@ -38,6 +39,7 @@ parallelization/FindInMatrixTest$1.class
 algorithms/RecursiveStackTest.class
 parallelization/ExamGraderTest$1.class
 algorithms/CleanLinkedListTest.class
+basics/MazoutTest$RectangularGrid.class
 oop/DungeonTest.class
 basics/JavelinThrowTest.class
 parallelization/ExamGraderTest$4.class
