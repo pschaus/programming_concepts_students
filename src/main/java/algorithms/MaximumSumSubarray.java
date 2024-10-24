@@ -31,7 +31,7 @@ public class MaximumSumSubarray {
     }
     
     /**
-     * Finds the contiguous sub-array for which the sum of its elements is maximal.
+     * Finds the contiguous non-empty sub-array for which the sum of its elements is maximal.
      * If multiple sub-arrays have the same maximal sum, returns the one that starts at
      * the lowest index.
      * 
