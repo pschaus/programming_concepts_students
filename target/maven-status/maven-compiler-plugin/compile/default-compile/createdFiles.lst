@@ -1,4 +1,3 @@
-algorithms/SumComplexity.class
 parallelization/TrainStations$DistanceFunction.class
 oop/KNN.class
 fp/StudentStream.class
@@ -21,13 +20,13 @@ parallelization/DiskCatalog$CountMatchingDisksCallable.class
 parallelization/StadiumStatistics$AgeHistogram.class
 parallelization/CountPrimeNumbers$CountPrimesCallable.class
 algorithms/Anagram.class
+algorithms/Hashtable$Entry.class
 basics/ASCIIDecoder.class
 fp/FuturesLibrary$Library.class
 oop/RobotActionFactory$SequenceOfActions.class
 fp/ObservableCounter.class
 algorithms/CleanLinkedList$Node.class
 basics/QRcode.class
-algorithms/TreeHashtable.class
 fp/StudentStream$Grade.class
 basics/PatternMatching.class
 basics/Mazout.class
@@ -48,6 +47,7 @@ parallelization/FindInMatrix$Result.class
 algorithms/SwapList.class
 oop/Pentago$RotationDirection.class
 algorithms/FunctionRoot$Function.class
+algorithms/Hashtable.class
 oop/RobotActionFactory$TurnLeftAction.class
 oop/PhysicsSolver.class
 fp/BrickCounter$Brick.class
@@ -60,7 +60,6 @@ oop/Dungeon$Player.class
 parallelization/DiskCatalog$Disk.class
 fp/PrimeNumberStream.class
 oop/RobotActionFactory$TurnRightAction.class
-algorithms/TreeHashtable$Entry.class
 fp/EmployeeFinder.class
 algorithms/CircularLinkedList.class
 fp/EmployeeFinder$Employee.class

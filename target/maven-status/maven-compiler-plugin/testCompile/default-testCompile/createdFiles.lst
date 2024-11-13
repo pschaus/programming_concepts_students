@@ -5,6 +5,7 @@ fp/VariousStreamsTest.class
 algorithms/FunctionRootTest.class
 basics/MagicSquareTest.class
 parallelization/StadiumStatisticsTest$MySupporter.class
+algorithms/HashtableTest.class
 parallelization/ExamGraderTest$2.class
 algorithms/LinkedList.class
 fp/FuturesLibraryTest.class
@@ -67,7 +68,6 @@ algorithms/SwapListTest.class
 fp/LambdaExpressionsTest.class
 parallelization/DiskCatalogTest.class
 fp/EmployeeFinderTest.class
-algorithms/TreeHashtableTest.class
 fp/StudentStreamTest.class
 basics/PascalTest.class
 algorithms/ExpressionTest.class
