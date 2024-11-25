@@ -33,6 +33,7 @@ parallelization/ExamGraderTest$8.class
 fp/FuturesLibraryTest$MyBook.class
 algorithms/AnagramTest.class
 oop/PentagoTest.class
+quizz/FlipperTest.class
 basics/CommonElementsTest.class
 fp/StudentStreamTest$TestConditions.class
 fp/FuturesLibraryTest$MyLibrary.class

@@ -16,6 +16,7 @@ oop/PhysicsSolver$Multiplication.class
 parallelization/StadiumStatistics.class
 fp/EmployeeFinder$Company.class
 oop/GlobalWarming.class
+quizz/Flipper.class
 parallelization/DiskCatalog$CountMatchingDisksCallable.class
 parallelization/StadiumStatistics$AgeHistogram.class
 parallelization/CountPrimeNumbers$CountPrimesCallable.class
