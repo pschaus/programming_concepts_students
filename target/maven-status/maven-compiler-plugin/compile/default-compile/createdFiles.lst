@@ -2,9 +2,10 @@ parallelization/TrainStations$DistanceFunction.class
 oop/KNN.class
 fp/StudentStream.class
 basics/Mazout$1.class
+oop/RunLengthEncoding$RepeatingValue.class
 algorithms/MedianOfPairs.class
-oop/PhysicsSolver$Squaring.class
 fp/FuturesLibrary.class
+oop/PhysicsSolver$Squaring.class
 basics/StringUtils.class
 oop/RobotActionFactory$RepeatAction.class
 algorithms/StringIterator.class
@@ -41,10 +42,11 @@ fp/BrickCounter.class
 basics/FourInARow.class
 basics/Convolution.class
 algorithms/KnapsackBruteForce.class
+oop/RunLengthEncoding.class
 oop/Pentago.class
 algorithms/Expression.class
-fp/StudentStream$Student.class
 parallelization/FindInMatrix$Result.class
+fp/StudentStream$Student.class
 algorithms/SwapList.class
 oop/Pentago$RotationDirection.class
 algorithms/FunctionRoot$Function.class
@@ -57,8 +59,8 @@ parallelization/ExamGrader$ExamQuestion.class
 basics/Pascal.class
 parallelization/TrainStations$Station.class
 parallelization/StadiumStatistics$Supporter.class
-oop/Dungeon$Player.class
 parallelization/DiskCatalog$Disk.class
+oop/Dungeon$Player.class
 fp/PrimeNumberStream.class
 oop/RobotActionFactory$TurnRightAction.class
 fp/EmployeeFinder.class
@@ -73,8 +75,8 @@ basics/IntroductionExercises.class
 basics/MagicSquare.class
 algorithms/DotProductIterator.class
 oop/RobotActionFactory$1.class
-fp/LambdaExpressions.class
 fp/VariousStreams$MinMaxValue.class
+fp/LambdaExpressions.class
 algorithms/KnapsackBruteForce$Item.class
 oop/RobotActionFactory.class
 algorithms/FunctionRoot.class
@@ -84,8 +86,8 @@ algorithms/CircularLinkedList$Node.class
 fp/FuturesLibrary$Book.class
 algorithms/MedianOfPairs$Pair.class
 algorithms/MaximumSumSubarray.class
-oop/Pentago$BoardSubpart.class
 fp/StudentStream$StudentAverage.class
+oop/Pentago$BoardSubpart.class
 basics/JavelinThrow$JavelinPosition.class
 parallelization/TrainStations.class
 oop/Dungeon.class
@@ -93,8 +95,8 @@ algorithms/MaximumSumSubarray$ArrayIndex.class
 oop/Pentago$Player.class
 basics/CommonElements.class
 parallelization/CountPrimeNumbers$CountPrimesRunnable.class
-algorithms/StringIterator$IterableString.class
 algorithms/BestTimeTracker.class
+algorithms/StringIterator$IterableString.class
 fp/StudentStream$CourseCondition.class
 algorithms/DotProductIterator$VectorIterator.class
 parallelization/StadiumStatistics$AgeCategory.class
@@ -103,8 +105,8 @@ algorithms/DecisionTree.class
 oop/RobotActionFactory$MoveForwardAction.class
 oop/PhysicsSolver$Slot.class
 algorithms/CleanLinkedList.class
-oop/GlobalWarming$RecordObserver.class
 fp/VariousStreams.class
+oop/GlobalWarming$RecordObserver.class
 parallelization/ExamGrader.class
 oop/RobotActionFactory$Robot.class
 oop/KNN$Student.class
